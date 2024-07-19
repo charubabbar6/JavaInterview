@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TestJavaforGit {
+module TestGit {
 }
